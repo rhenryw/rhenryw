@@ -10,5 +10,7 @@ Contact stuff at website in bio
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=rhenryw&theme=dark)](https://github.com/anuraghazra/github-readme-stats)      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhenryw&layout=compact&theme=dark)
 
 
+[![FLASH Button](https://cdn.jsdelivr.net/gh/rhenryw/FLASH@main/img/button.gif)](https://github.com/rhenryw/FLASH) 
 
+[![FLASH Button](https://cdn.jsdelivr.net/gh/rhenryw/FLASH@main/img/button.png)](https://github.com/rhenryw/FLASH) 
 
