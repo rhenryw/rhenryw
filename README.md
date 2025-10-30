@@ -10,7 +10,12 @@ Contact stuff at website in bio
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=rhenryw&theme=dark)](https://github.com/anuraghazra/github-readme-stats)      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhenryw&layout=compact&theme=dark)
 
 
-[![FLASH Button](https://cdn.jsdelivr.net/gh/rhenryw/FLASH@main/img/button.gif)](https://github.com/rhenryw/FLASH) 
-
-[![FLASH Button](https://cdn.jsdelivr.net/gh/rhenryw/FLASH@main/img/button.png)](https://github.com/rhenryw/FLASH) 
-
+<p align="left">
+  <a href="https://github.com/rhenryw/FLASH">
+    <img src="https://cdn.jsdelivr.net/gh/rhenryw/FLASH@main/img/button.gif" alt="FLASH Button" style="margin-right:10px;">
+  </a>
+  <a href="https://github.com/rhenryw/FLASH">
+    <img src="https://cdn.jsdelivr.net/gh/rhenryw/FLASH@main/img/button.png" alt="FLASH Button" style="margin-right:10px;">
+  </a>
+  <img src="https://cdn.jsdelivr.net/gh/rhenryw/rhenryw@main/backlink88x31.webp" alt="Gummy's List DEPRECATED">
+</p>
