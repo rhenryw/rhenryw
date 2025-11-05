@@ -1,7 +1,7 @@
 # Wassup?
 
 
-[Sapira](https://sapira.rhw.one) finna be cool
+Working on [Sail](https://sail.rhw.one) with [ThinLiquid](https://github.com/ThinLiquid) and [technonyte](https://github.com/technonyte00)
 
 Contact stuff at website in bio
 
