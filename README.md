@@ -19,3 +19,5 @@ Contact stuff at website in bio
   </a>
   <img src="https://cdn.jsdelivr.net/gh/rhenryw/rhenryw@main/backlink88x31.webp" alt="Gummy's List DEPRECATED">
 </p>
+
+Profile Views: `1 gijabillion`
