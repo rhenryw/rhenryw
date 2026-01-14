@@ -1,7 +1,7 @@
 # Wassup?
 
 
-Working on [Sail](https://sail.rhw.one) with [ThinLiquid](https://github.com/ThinLiquid) and [technonyte](https://github.com/technonyte00)
+Working on [SimpleTools](https://simpletools.lol)
 
 Contact stuff at website in bio
 
