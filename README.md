@@ -1,14 +1,13 @@
 # Wassup?
 
 
-Working on [SimpleTools](https://simpletools.lol) and [SPLASH](https://splash.best)
+Working on [SimpleTools](https://simpletools.lol) and [SPLASH](https://splash.best) (v2 soon?????)
 
 Contact stuff at website in bio
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rhenryw&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rhenryw&theme=dark)](https://github.com/anuraghazra/github-readme-stats)      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhenryw&layout=compact&theme=dark)
-
+I mostly cod
 
 <p align="left">
   <a href="https://github.com/rhenryw/FLASH">
