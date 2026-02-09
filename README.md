@@ -9,11 +9,11 @@ Contact stuff at website in bio
 
 Things I know (at least well enough to use them, maybe not code a full program)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,wasm,scss,git,nodejs,apple,windows,ubuntu,debian,linux,arduino,raspberrypi,bash,vite,bun,pnpm,cloudflare,discord,github,gitlab,githubactions,instagram,md,mongodb,npm,react,solidjs,stackoverflow,sublime,svg,vscode,vue,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,wasm,scss,git,nodejs,apple,windows,ubuntu,debian,linux,arduino,raspberrypi,bash,vite,bun,pnpm,cloudflare,discord,github,gitlab,githubactions,instagram,md,mongodb,npm,react,solidjs,stackoverflow,sublime,svg,vscode,vue,wasm)](https://rhw.one)
 </br></br>
 Things I'm learning:
 
-[![Learning](https://skillicons.dev/icons?i=js,java)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=js,java)](https://rhw.one)
 
 <p align="left">
   <a href="https://github.com/rhenryw/FLASH">
