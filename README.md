@@ -7,7 +7,7 @@ Contact stuff at website in bio
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rhenryw&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-Things I'm know
+Things I know (at least well enough to use them, maybe not code a full program)
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,wasm,scss,git,nodejs,apple,windows,ubuntu,debian,linux,arduino,raspberrypi,bash,vite,bun,pnpm,cloudflare,discord,github,gitlab,githubactions,instagram,md,mongodb,npm,react,solidjs,stackoverflow,sublime,svg,vscode,vue,wasm)](https://skillicons.dev)
 </br></br>
