@@ -9,7 +9,8 @@ Contact stuff at website in bio
 
 Things I know (at least well enough to use them, maybe not code a full program)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,wasm,scss,git,nodejs,apple,windows,ubuntu,debian,linux,arduino,raspberrypi,bash,vite,bun,pnpm,cloudflare,discord,github,gitlab,githubactions,instagram,md,mongodb,npm,react,solidjs,stackoverflow,sublime,svg,vscode,vue,wasm)](https://rhw.one)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,scss,md,svg,wasm,bash,react,vue,solidjs,nodejs,bun,npm,pnpm,vite,git,linux,ubuntu,debian,windows,apple,cloudflare,arduino,raspberrypi,vscode,sublime,githubactions,github,gitlab,discord,instagram,stackoverflow,mongodb
+)](https://rhw.one)
 </br></br>
 Things I'm learning:
 
